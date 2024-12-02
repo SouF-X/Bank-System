@@ -1,0 +1,5 @@
+﻿  Bank-1-Project.cpp
+C:\Users\HP Computer\Desktop\Learning-C++\Bank-1-Project\Bank-1-Project\Bank-1-Project.cpp(38,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\HP Computer\Desktop\Learning-C++\Bank-1-Project\Bank-1-Project\Bank-1-Project.cpp(364,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\HP Computer\Desktop\Learning-C++\Bank-1-Project\Bank-1-Project\Bank-1-Project.cpp(426,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  Bank-1-Project.vcxproj -> C:\Users\HP Computer\Desktop\Learning-C++\Bank-1-Project\x64\Debug\Bank-1-Project.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP Computer\\Desktop\\Learning-C\u002B\u002B\\Bank-1-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{377AE3E6-ED44-405B-8F73-D97948BF4476}|Bank-1-Project\\Bank-1-Project.vcxproj|C:\\Users\\HP Computer\\Desktop\\Learning-C\u002B\u002B\\Bank-1-Project\\Bank-1-Project\\Bank-1-Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{377AE3E6-ED44-405B-8F73-D97948BF4476}|Bank-1-Project\\Bank-1-Project.vcxproj|solutionrelative:Bank-1-Project\\Bank-1-Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bank-1-Project.cpp",
+              "DocumentMoniker": "C:\\Users\\HP Computer\\Desktop\\Learning-C\u002B\u002B\\Bank-1-Project\\Bank-1-Project\\Bank-1-Project.cpp",
+              "RelativeDocumentMoniker": "Bank-1-Project\\Bank-1-Project.cpp",
+              "ToolTip": "C:\\Users\\HP Computer\\Desktop\\Learning-C\u002B\u002B\\Bank-1-Project\\Bank-1-Project\\Bank-1-Project.cpp",
+              "RelativeToolTip": "Bank-1-Project\\Bank-1-Project.cpp",
+              "ViewState": "AQIAADMCAAAAAAAAAAAiwNsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T10:13:26.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
